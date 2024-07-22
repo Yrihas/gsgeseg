@@ -104,6 +104,6 @@ sound:play()
 
 local h = Instance.new("Hint")
 h.Parent = Workspace 
-h.Text = "m00rkidd is"
+h.Text = "m00rkidd gaming"
 wait(9999999999999)
 h:Remove()
